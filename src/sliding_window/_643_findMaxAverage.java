@@ -1,4 +1,4 @@
-package leetcode_problems.sliding_window;
+package sliding_window;
 
 public class _643_findMaxAverage {
     public static void main(String[] args) {
