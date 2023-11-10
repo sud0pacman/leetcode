@@ -4,6 +4,7 @@ public class _1759_countHomogenous {
     public static void main(String[] args) {
         String s = "zzzzz";
         System.out.println(countHomogenous(s));
+        System.out.println("for github");
     }
 
     public static int countHomogenous(String s) {
